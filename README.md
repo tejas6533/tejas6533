@@ -1,6 +1,6 @@
 # 💫 About Me: 
 - 🎓 Salesforce Developer Fresher passionate about CRM & Cloud Technologies  
-- 💻 Skilled in **LWC, Apex, SOQL,Trigger, HTML, CSS, JavaScript**  
+- 💻 Skilled in **LWC, Apex, SOQL, Trigger, HTML, CSS, JavaScript, flows, Validation Rules**  
 - 🔧 Built real-world Salesforce projects  
 - 🌱 Currently learning **Advanced LWC, Integrations & Cloud Systems**  
 - 🎯 Goal: Become a professional Salesforce Developer
