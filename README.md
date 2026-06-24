@@ -19,9 +19,7 @@
 ![Apex Triggers](https://img.shields.io/badge/Apex%20Triggers-1798C1?style=for-the-badge&logo=apex&logoColor=white)
 
 
-![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tejas6533&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
