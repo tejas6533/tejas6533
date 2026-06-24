@@ -15,8 +15,6 @@
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-FFB75D?style=for-the-badge&logo=databricks&logoColor=black)
-![Aura](https://img.shields.io/badge/Aura_Framework-5A5A5A?style=for-the-badge&logo=salesforce&logoColor=white)
-![Visualforce](https://img.shields.io/badge/Visualforce-1A1A1A?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
 
