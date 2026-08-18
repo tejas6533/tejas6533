@@ -7,7 +7,6 @@ I'm a **Salesforce Developer Fresher** passionate about CRM, cloud technologies,
 * 🎓 Final-year Computer Science student
 * 💻 Salesforce Developer Fresher
 * ⚡ Skilled in **Apex, LWC, SOQL, Triggers, Flows**
-* 🌐 Experience with **Experience Cloud**
 * 🔧 Building real-world Salesforce projects
 * 🌱 Currently learning **Advanced LWC, Integrations, Cloud Technologies & Agentforce**
 * 🎯 Goal: Become a professional Salesforce Developer
