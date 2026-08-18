@@ -77,27 +77,6 @@ Salesforce payment management application with transaction tracking and dashboar
 
 ---
 
-
-
-**Technologies:**
-
-`Apex` `LWC` `SOQL` `Flows` `Experience Cloud`
-
----
-
-# 📚 Currently Learning
-
-* ⚡ Advanced Apex
-* ⚡ Advanced LWC
-* 🔗 Salesforce Integrations
-* ☁️ Salesforce Cloud Technologies
-* 🤖 Agentforce
-* 📊 Salesforce Data Cloud
-* 🔐 Salesforce Security
-* 🚀 Advanced Trigger Frameworks
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
