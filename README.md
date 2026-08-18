@@ -64,26 +64,6 @@ I'm a **Salesforce Developer Fresher** passionate about CRM, cloud technologies,
 
 # 🚀 Salesforce Projects
 
-### 🎫 IT HelpDesk Management System
-
-A Salesforce-based IT HelpDesk application for managing employee support tickets.
-
-**Features:**
-
-* 🎫 Ticket creation and management
-* 📊 HelpDesk Dashboard
-* 👨‍💻 Agent Dashboard
-* 👨‍💼 Manager Dashboard
-* 📈 Reports & Analytics
-* 🔐 Salesforce security and sharing
-* 🌐 Experience Cloud portal
-* ⚡ Apex & LWC integration
-* 🔄 Trigger-based automation
-* 👤 User-specific ticket management
-
-**Technologies:**
-
-`Salesforce` `Apex` `LWC` `SOQL` `Triggers` `Experience Cloud`
 
 ---
 
@@ -97,20 +77,7 @@ Salesforce payment management application with transaction tracking and dashboar
 
 ---
 
-### 🏖️ Employee Leave Management System
 
-Salesforce application for managing employee leave requests and approvals.
-
-**Features:**
-
-* Leave request creation
-* Manager approval
-* Leave balance management
-* Employee dashboard
-* Manager dashboard
-* Approval automation
-* Apex triggers
-* LWC components
 
 **Technologies:**
 
