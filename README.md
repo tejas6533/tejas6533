@@ -29,7 +29,7 @@ I'm a **Salesforce Developer Fresher** passionate about CRM, cloud technologies,
 
 <img src="https://img.shields.io/badge/Salesforce%20Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 
 
