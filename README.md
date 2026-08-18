@@ -59,30 +59,9 @@ I'm a **Salesforce Developer Fresher** passionate about CRM, cloud technologies,
 
 </p>
 
----
 
-# ☁️ Salesforce Concepts
 
-* Apex Classes
-* Apex Triggers
-* Trigger Handler Pattern
-* SOQL & SOSL
-* LWC
-* Lightning Data Service
-* Salesforce Flows
-* Validation Rules
-* Custom Objects & Fields
-* Lookup & Master-Detail Relationships
-* Reports & Dashboards
-* Profiles & Permission Sets
-* OWD & Sharing Rules
-* Experience Cloud
-* Salesforce Security
-* Apex Integration
-* REST API
-* Governor Limits
 
----
 
 # 🚀 Salesforce Projects
 
