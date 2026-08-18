@@ -32,7 +32,7 @@ I'm a **Salesforce Developer Fresher** passionate about CRM, cloud technologies,
 
 <img src="https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<img src="./assets/data-cloud-360.png" alt="Salesforce Data Cloud 360" width="800"/>
+
 
 
 </p>
