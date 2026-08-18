@@ -69,15 +69,16 @@ Salesforce payment management application with transaction tracking and dashboar
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejas6533\&show_icons=true\&theme=dark\&hide_border=false\&count_private=true\&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas6533&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas6533&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tejas6533\&theme=dark\&hide_border=false)
+## 🔥 GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas6533\&theme=dark\&hide_border=false\&layout=compact\&langs_count=8)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tejas6533\&theme=darkhub\&no-frame=false\&no-bg=true\&margin-w=4)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tejas6533&theme=dark&hide_border=false" />
+</p>
 
 ## 👀 Profile Views
 
